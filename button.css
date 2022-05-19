@@ -1,0 +1,245 @@
+.botoes button {
+  background: none;
+  position: fixed;
+  border: none;
+}
+
+#bt_1 {
+  width: 7rem;
+  height: 4rem;
+
+  left: 17rem;
+  top: 13rem;
+}
+
+#bt_11 {
+  position: fixed;
+  left: 17.5rem;
+  top: 11rem;
+}
+
+#bt_12 {
+  position: fixed;
+  left: 17.5rem;
+  top: 15.5rem;
+}
+
+#bt_2 {
+  width: 6rem;
+  height: 4rem;
+
+  left: 21.5rem;
+  top: 17rem;
+}
+
+#bt_21 {
+  position: fixed;
+  left: 23.5rem;
+  top: 15.5rem;
+}
+
+#bt_22 {
+  position: fixed;
+  left: 20.5rem;
+  top: 19.5rem;
+}
+
+#bt_3 {
+  width: 6rem;
+  height: 4rem;
+
+  left: 52rem;
+  top: 17.5rem;
+}
+
+#bt_31 {
+  position: fixed;
+  left: 52.5rem;
+  top: 15.5rem;
+}
+
+#bt_32 {
+  position: fixed;
+  left: 55rem;
+  top: 20rem;
+}
+
+#bt_4 {
+  width: 6rem;
+  height: 4rem;
+
+  left: 55.5rem;
+  top: 13rem;
+}
+
+#bt_41 {
+  position: fixed;
+  left: 59rem;
+  top: 11rem;
+}
+
+#bt_42 {
+  position: fixed;
+  left: 59rem;
+  top: 15.5rem;
+}
+
+#bt_5 {
+  width: 7rem;
+  height: 4rem;
+
+  left: 63rem;
+  top: 13rem;
+}
+
+#bt_51 {
+  position: fixed;
+  left: 64rem;
+  top: 11rem;
+}
+
+#bt_52 {
+  position: fixed;
+  left: 64rem;
+  top: 15.5rem;
+}
+
+#bt_6 {
+  width: 4rem;
+  height: 10rem;
+
+  left: 78.5rem;
+  top: 22rem;
+}
+
+#bt_61 {
+  position: fixed;
+  left: 81.5rem;
+  top: 27rem;
+}
+
+#bt_62 {
+  position: fixed;
+  left: 77rem;
+  top: 27rem;
+}
+
+#bt_7 {
+  width: 7rem;
+  height: 4rem;
+
+  left: 63rem;
+  top: 48rem;
+}
+
+#bt_71 {
+  position: fixed;
+  left: 63.5rem;
+  top: 46rem;
+}
+
+#bt_72 {
+  position: fixed;
+  left: 63.5rem;
+  top: 51rem;
+}
+
+#bt_8 {
+  width: 7rem;
+  height: 4rem;
+
+  left: 51.5rem;
+  top: 48rem;
+}
+
+#bt_81 {
+  position: fixed;
+  left: 55rem;
+  top: 46rem;
+}
+
+#bt_82 {
+  position: fixed;
+  left: 55rem;
+  top: 51rem;
+}
+
+#bt_9 {
+  width: 7rem;
+  height: 4rem;
+
+  left: 47rem;
+  top: 43.5rem;
+}
+
+#bt_91 {
+  position: fixed;
+  left: 51rem;
+  top: 41.5rem;
+}
+
+#bt_92 {
+  position: fixed;
+  left: 49rem;
+  top: 46.5rem;
+}
+
+#bt_10 {
+  width: 7rem;
+  height: 4rem;
+
+  left: 25.5rem;
+  top: 39rem;
+}
+
+#bt_101 {
+  position: fixed;
+  left: 26rem;
+  top: 37.5rem;
+}
+
+#bt_102 {
+  position: fixed;
+  left: 28.5rem;
+  top: 42rem;
+}
+
+#bt_011 {
+  width: 6rem;
+  height: 4rem;
+
+  left: 23rem;
+  top: 43.5rem;
+}
+
+#bt_111 {
+  position: fixed;
+  left: 23rem;
+  top: 42rem;
+}
+
+#bt_112 {
+  position: fixed;
+  left: 26rem;
+  top: 46.5rem;
+}
+
+#bt_012 {
+  width: 6rem;
+  height: 4rem;
+
+  left: 20rem;
+  top: 48rem;
+}
+
+#bt_121 {
+  position: fixed;
+  left: 20rem;
+  top: 46rem;
+}
+
+#bt_122 {
+  position: fixed;
+  left: 20rem;
+  top: 51rem;
+}
